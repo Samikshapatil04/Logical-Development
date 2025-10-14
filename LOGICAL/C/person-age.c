@@ -3,7 +3,6 @@
 
 int main()
 {
-
     int inputone;
     int inputtwo;
     int age = 12;
